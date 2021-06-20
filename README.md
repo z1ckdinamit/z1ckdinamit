@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-<!--
-**z1ckdinamit/z1ckdinamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=z1ckdinamit&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Languages
+- Java
+- JavaScript
+  - Node.js
+- TypeScript
+- Python
+
+## Contacts & Links
+- Twitter — https://twitter.com/z1ckdinamit
+- Discord — `Z1cKDinAmIT#1234`
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
