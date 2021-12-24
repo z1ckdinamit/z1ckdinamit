@@ -13,4 +13,4 @@
 
 ## Contacts & Links
 - Twitter — https://twitter.com/z1ckdinamit
-- Discord — `Z1cKDinAmIT#1234`
+- Discord — `Z1cKDinAmIT#4356`
